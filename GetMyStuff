@@ -1,0 +1,3 @@
+id
+echo $SHELL
+echo $HOME
